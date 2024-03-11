@@ -21,4 +21,4 @@ In order of priorities:
 
 [Aries Solutions]: https://www.ariessolutions.io/
 [twitter]: https://twitter.com/ataschz/
-[email]: mailto:gahs94@gmail.com?subject=I found you on Github - Let's work together!
+[email]: mailto:gahs94@gmail.com?subject=I%20found%20you%20on%20Github%20-%20Let's%20work%20together!
