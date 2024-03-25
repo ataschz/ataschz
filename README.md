@@ -3,7 +3,7 @@
 [![Follow on X](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dataschz)](https://twitter.com/intent/follow?screen_name=ataschz)
 [![GitHub followers](https://img.shields.io/github/followers/ataschz?label=Follow&style=social)](https://github.com/ataschz?tab=followers)
 
-I'm **Ata**, working at [Aries Solutions] as a Full Remote **Lead UI Engineer** from 🇦🇷 Argentina.  
+I'm **Ata**, working at [Aries Solutions] as a Full Remote **Product Engineer** from 🇦🇷 Argentina.  
 I'm highly interested in creating AI tools and conducting experiments in VR. So, if you are also interested, let's stay in touch through [X][twitter] and keep up with my experiments and thoughts!
 
 #### What are you looking for?
