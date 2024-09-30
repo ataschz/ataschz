@@ -9,8 +9,8 @@ I have a strong interest in industries like Crypto, Logistics, Fintech, and Deve
 
 #### What are you looking for?
 
-- ☕️ Interested in working together? [Send me an email][email]
-- 💬 Have questions? [Contact me][twitter]
+- ☕️ Interested in working together? [Send me an email](mailto:gahs94@gmail.com)
+- 💬 Have questions? [Contact me](https://x.com/ataschz)
 
 #### What am I working on?
 
