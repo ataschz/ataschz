@@ -3,8 +3,9 @@
 [![Follow on X](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dataschz)](https://twitter.com/intent/follow?screen_name=ataschz)
 [![GitHub followers](https://img.shields.io/github/followers/ataschz?label=Follow&style=social)](https://github.com/ataschz?tab=followers)
 
-I'm **Ata**, working at [Aries Solutions] as a Full Remote **Product Engineer** from 🇦🇷 Argentina.  
-I'm highly interested in creating AI tools and conducting experiments in VR. So, if you are also interested, let's stay in touch through [X][twitter] and keep up with my experiments and thoughts!
+I'm **Ata**, an experienced Full-Stack Engineer specializing in the implementation of commerce solutions from 🇦🇷 Argentina. I work with technologies such as TypeScript, AWS, and leading platforms like Commercetools and Shopify.
+
+I have a strong interest in industries like Crypto, Logistics, Fintech, and Development Tools.
 
 #### What are you looking for?
 
@@ -13,12 +14,5 @@ I'm highly interested in creating AI tools and conducting experiments in VR. So,
 
 #### What am I working on?
 
-In order of priorities:
+In my free time, I’m working on what I hope will become the most curated and user-friendly guide in the world for finding the best coffee spots near you to work from, [workffee](https://workffee.com). If you have a favorite café that shouldn’t be missed, feel free to add it! 🤘🏼
 
-- ✨ Most of my time is invested in our projects at AriesSolutions, where we innovate ecommerce solutions for companies of all types and sizes.
-- 🦾 In my free time, I create small applications that solve specific problems in my daily life.
-- 😅 Lastly, I'm very active on Twitter, so that is surely the best channel to contact me! 🤟🏼
-
-[Aries Solutions]: https://www.ariessolutions.io/
-[twitter]: https://twitter.com/ataschz/
-[email]: mailto:gahs94@gmail.com?subject=I%20found%20you%20on%20Github%20-%20Let's%20work%20together!
